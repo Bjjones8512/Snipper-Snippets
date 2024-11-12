@@ -1,0 +1,66 @@
+<snippets>
+  <snippet>
+    <id>1</id>
+    <language>Python</language>
+    <code>print('Hello, World!')</code>
+  </snippet>
+  <snippet>
+    <id>2</id>
+    <language>Python</language>
+    <code>def add(a, b):
+  return a + b</code>
+  </snippet>
+  <snippet>
+    <id>3</id>
+    <language>Python</language>
+    <code>class Circle:
+  def __init__(self, radius):
+    self.radius = radius
+
+  def area(self):
+    return 3.14 * self.radius ** 2</code>
+  </snippet>
+  <snippet>
+    <id>4</id>
+    <language>JavaScript</language>
+    <code>console.log('Hello, World!');</code>
+  </snippet>
+  <snippet>
+    <id>5</id>
+    <language>JavaScript</language>
+    <code>function multiply(a, b) {
+  return a * b;
+}</code>
+  </snippet>
+  <snippet>
+    <id>6</id>
+    <language>JavaScript</language>
+    <code>const square = num => num * num;</code>
+  </snippet>
+  <snippet>
+    <id>7</id>
+    <language>Java</language>
+    <code>public class HelloWorld {
+  public static void main(String[] args) {
+    System.out.println("Hello, World!");
+  }
+}</code>
+  </snippet>
+  <snippet>
+    <id>8</id>
+    <language>Java</language>
+    <code>public class Rectangle {
+  private int width;
+  private int height;
+
+  public Rectangle(int width, int height) {
+    this.width = width;
+    this.height = height;
+  }
+
+  public int getArea() {
+    return width * height;
+  }
+}</code>
+  </snippet>
+</snippets>
